@@ -1,0 +1,31 @@
+{
+  "name": "twilight-greg",
+  "theme": "syntax",
+  "version": "0.3.0",
+  "private": true,
+  "description": "This is the Twilight theme from Michael Sheets (Greg's custom)",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# twilight theme\n\nThis is the Twilight theme for atom from Michael Sheets\n\nhttp://tmtheme-editor.herokuapp.com/#/local/Twilight\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ssteinker/atom-twilight/issues"
+  },
+  "homepage": "https://github.com/ssteinker/atom-twilight#readme",
+  "_id": "twilight@0.3.0",
+  "_shasum": "57b31fe1ce5481d1079691a85c564815b6c52e61",
+  "_resolved": "file:../d-11608-16430-5m8r26/package.tgz",
+  "_from": "../d-11608-16430-5m8r26/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
